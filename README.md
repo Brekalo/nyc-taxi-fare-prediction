@@ -30,7 +30,3 @@ nyc-taxi-fare-prediction/
 
 - Linear Regression
 - Metrics: RMSE, R²
-
----
-
-Kaggle Notebook converted to GitHub project by 🔨🤖 Git Expert.
