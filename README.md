@@ -1,6 +1,6 @@
 
 # NYC Taxi Fare Prediction 🚖
-
+### Google Advanced Data Analytics Certificate – Python Capstone Case Study (Automatidata)
 This project predicts taxi fares in New York City using Linear Regression.
 
 ## 📁 Project Structure
